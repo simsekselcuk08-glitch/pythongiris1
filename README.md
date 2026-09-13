@@ -1,2 +1,2 @@
 # pythongiris1
-selamlama
+Kullanıcından alinan isim önüne Merhaba metni eklenecek
